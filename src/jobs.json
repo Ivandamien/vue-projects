@@ -85,18 +85,18 @@
       }
     },
     {
-      "id": "476a",
       "type": "Remote",
-      "title": "Quintessa Nichols",
+      "title": "Senior Vue Developer",
       "description": "Fugiat voluptatem s",
-      "salary": "Over $200K",
+      "salary": "$175K - $200K",
       "location": "Voluptatem molestiae",
       "company": {
         "name": "Green and Webb Trading",
         "description": "Aut et quos sapiente",
         "contactEmail": "wufacaric@mailinator.com",
         "contactPhone": "+1 (929) 761-2781"
-      }
+      },
+      "id": "476a"
     }
   ]
 }
