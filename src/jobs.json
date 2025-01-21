@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "476a",
+      "type": "Remote",
+      "title": "Quintessa Nichols",
+      "description": "Fugiat voluptatem s",
+      "salary": "Over $200K",
+      "location": "Voluptatem molestiae",
+      "company": {
+        "name": "Green and Webb Trading",
+        "description": "Aut et quos sapiente",
+        "contactEmail": "wufacaric@mailinator.com",
+        "contactPhone": "+1 (929) 761-2781"
+      }
     }
   ]
 }
